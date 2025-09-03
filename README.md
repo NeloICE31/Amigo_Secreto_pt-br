@@ -26,6 +26,6 @@ Onde no site o usuário pode adicionar nomes à lista, visualizar os amigos adic
 
 ---
 
-## 🔗 Acesso ao Projeto
+## 📖 Acesso ao Projeto
 
 Você pode acessar o projeto baixando em **Code → Download ZIP**
